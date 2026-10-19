@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-1420-add-a-retrospective-template-for-teachlink",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-1420-add-a-retrospective-template-for-teachlink": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-1420-add-a-retrospective-template-for-teachlink",
+    "origin"
+  ]
+}
